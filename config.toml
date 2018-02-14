@@ -1,7 +1,8 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Reference Repo"
-theme = "simple"
+subtitle = "a collection"
+theme = "simple2"
 buildDrafts= true
 
 [taxonomies]

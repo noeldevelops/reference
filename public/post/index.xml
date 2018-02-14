@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Reference Repo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Reference Repo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 18:31:42 -0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Over Earning</title>
+      <link>http://localhost:1313/post/maximize-learning/</link>
+      <pubDate>Mon, 29 Jan 2018 18:31:42 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/maximize-learning/</guid>
+      <description> An apprenticeship is a season in your career when your focus is more on your own growth than almost anything else. This is a time for you to delay your ambitions of immediately maximizing your earning potential in order to maximize your learning opportunities. &amp;ndash; Apprenticeship Patterns by O&amp;rsquo;Reilly Media
+ </description>
+    </item>
+    
+    <item>
+      <title>Yo</title>
+      <link>http://localhost:1313/post/hello-world/</link>
+      <pubDate>Mon, 29 Jan 2018 18:31:42 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>HELLO WORLD</description>
+    </item>
+    
+  </channel>
+</rss>
